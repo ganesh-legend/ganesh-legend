@@ -10,9 +10,9 @@
   <a href="https://github.com/ganesh-legend">
     <img src="https://img.shields.io/github/followers/ganesh-legend?label=Follow&style=social" />
   </a>
-  <a href="https://www.youtube.com/@devopsshack">
+<!--   <a href="https://www.youtube.com/@devopsshack">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/ganesh-pawar-3229a7282">
     <img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Pawar-blue?logo=linkedin&style=flat-square" />
   </a>
