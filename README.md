@@ -4,7 +4,7 @@
   <img src="https://github.com/ganesh-legend/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">A passionate Application Support Engineer but follows DevOps practices in work. I work in the Corporate IT Sector. I'm a DevOps professional dedicated to building efficient, scalable, and reliable software delivery pipelines. With expertise in tools like Docker, Kubernetes, Jenkins, and Terraform, I bridge the gap between development and operations to create seamless workflows. From automating infrastructure to optimizing CI/CD pipelines, I thrive on delivering innovation and efficiency.</h3>
 
 <p align="center">
   <a href="https://github.com/ganesh-legend">
