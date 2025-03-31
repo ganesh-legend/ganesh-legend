@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ganesh-legend](https://github.com/ganesh-legend)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **office@devopsshack.com**
+- 📫 How to reach me **gp420083@gmail.com**
 
 ---
 
