@@ -82,4 +82,4 @@
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
 🤝 Open to **Project Collaborations**  
-📧 Let’s chat: [portfolio.ganeshpawar.one](mailto:gp420083@gmail.com)
+📧 Let’s chat: [gp420083@gmail.com](mailto:gp420083@gmail.com)
