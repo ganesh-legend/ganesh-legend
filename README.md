@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Ganesh Pawar</h1>
 
 <div align="center">
-  <img src="https://github.com/ganesh-legend/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
+  <img src="https://github.com/ganesh-legend/jaiswaladi246/blob/main/Banner.png" alt="Ganesh Banner">
 </div>
 
 <h3 align="center">A passionate Application Support Engineer but follows DevOps practices in work. I work in the Corporate IT Sector. I'm a DevOps professional dedicated to building efficient, scalable, and reliable software delivery pipelines. With expertise in tools like Docker, Kubernetes, Jenkins, and Terraform, I bridge the gap between development and operations to create seamless workflows. From automating infrastructure to optimizing CI/CD pipelines, I thrive on delivering innovation and efficiency.</h3>
